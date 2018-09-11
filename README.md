@@ -8,7 +8,7 @@
 
 ## Tensorly测试结果
 
-运行`tensorly`文件夹下的`image_tucker.py`文件，设置`tucker_rank`分别为[50,50,3]、[100,100,3]、[200,200,3]和[300,300,3]。如果报`Memery`错误，修改`tensorly`源代码，`full_matrx = False`。
+运行`tensorly`文件夹下的`image_tucker.py`文件，设置`tucker_rank`分别为[50,50,3]、[100,100,3]、[200,200,3]和[300,300,3]。如果报`Memory`错误，修改`tensorly`源代码，`full_matrx = False`。
 
 运行结果如下：
 
